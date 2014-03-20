@@ -35,4 +35,3 @@ puts '2 * 5'
     puts 'backslash at the end of a string: \\'
     puts 'up\\down'
     puts 'up\down'
-puts "what is that"
