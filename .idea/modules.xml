@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearnRuby.iml" filepath="$PROJECT_DIR$/.idea/LearnRuby.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Numbers.iml" filepath="$PROJECT_DIR$/.idea/Numbers.iml" />
     </modules>
   </component>

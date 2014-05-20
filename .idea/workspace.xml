@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24315bbc-77ef-49ab-9043-da830801666f" name="Default" comment="Arrays">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Numbers.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Various/dictionary_sort.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/raluca.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Various/shuffle.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Various/sorting.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="24315bbc-77ef-49ab-9043-da830801666f" name="Default" comment="Various fancy methods - Iteration 2">
+      <change type="DELETED" beforePath="C:\Users\raluca\RubymineProjects\LearnRuby\.idea\Numbers.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Various/english_number.rb" afterPath="$PROJECT_DIR$/Various/english_number.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Numbers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,13 +20,13 @@
     <SUITE FILE_PATH="coverage/Numbers@arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1395850861827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fancy_Methods" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@old_roman_numerals.coverage" NAME="old_roman_numerals Coverage Results" MODIFIED="1400245120984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@leap_years.coverage" NAME="leap_years Coverage Results" MODIFIED="1396004375698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
-    <SUITE FILE_PATH="coverage/Numbers@ex_grandma.coverage" NAME="ex_grandma Coverage Results" MODIFIED="1395946796118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@sorting.coverage" NAME="sorting Coverage Results" MODIFIED="1400521219199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
+    <SUITE FILE_PATH="coverage/Numbers@ex_grandma.coverage" NAME="ex_grandma Coverage Results" MODIFIED="1395946796118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@comparison.coverage" NAME="comparison Coverage Results" MODIFIED="1395922912730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@ex_99_bottles_of_beer.coverage" NAME="ex_99_bottles_of_beer Coverage Results" MODIFIED="1395937921345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@simple_methods__1_.coverage" NAME="simple_methods (1) Coverage Results" MODIFIED="1400005310983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="Numbers" />
-    <SUITE FILE_PATH="coverage/Numbers@looping.coverage" NAME="looping Coverage Results" MODIFIED="1395927813032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@ex_table_of_contents_ver2.coverage" NAME="ex_table_of_contents_ver2 Coverage Results" MODIFIED="1396027333520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" MODULE_NAME="Numbers" />
+    <SUITE FILE_PATH="coverage/Numbers@looping.coverage" NAME="looping Coverage Results" MODIFIED="1395927813032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@variables.coverage" NAME="variables Coverage Results" MODIFIED="1395403808044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables and Assignment" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@ex_sorting.coverage" NAME="ex_sorting Coverage Results" MODIFIED="1396026369921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@branching.coverage" NAME="branching Coverage Results" MODIFIED="1395926927217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
@@ -46,10 +37,11 @@
     <SUITE FILE_PATH="coverage/Numbers@fav_num.coverage" NAME="fav_num Coverage Results" MODIFIED="1395425808829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mixing It Up" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@name.coverage" NAME="name Coverage Results" MODIFIED="1395425823979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mixing It Up" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@say_moo.coverage" NAME="say_moo Coverage Results" MODIFIED="1400004491829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="Numbers" />
+    <SUITE FILE_PATH="coverage/Numbers@english_number.coverage" NAME="english_number Coverage Results" MODIFIED="1400607214421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@shuffle__1_.coverage" NAME="shuffle (1) Coverage Results" MODIFIED="1400521235610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@logic.coverage" NAME="logic Coverage Results" MODIFIED="1395928894917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flow Control" MODULE_NAME="Numbers" />
-    <SUITE FILE_PATH="coverage/Numbers@dictionary_sort.coverage" NAME="dictionary_sort Coverage Results" MODIFIED="1400598695473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@array_methods.coverage" NAME="array_methods Coverage Results" MODIFIED="1396028125180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" MODULE_NAME="Numbers" />
+    <SUITE FILE_PATH="coverage/Numbers@dictionary_sort.coverage" NAME="dictionary_sort Coverage Results" MODIFIED="1400598695473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@roman_numerals.coverage" NAME="roman_numerals Coverage Results" MODIFIED="1400246310678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="Numbers" />
     <SUITE FILE_PATH="coverage/Numbers@suffle.coverage" NAME="suffle Coverage Results" MODIFIED="1400521127842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Various" MODULE_NAME="Numbers" />
   </component>
@@ -65,21 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dictionary_sort.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Various/dictionary_sort.rb">
+      <file leaf-file-name="english_number.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Various/english_number.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83505154" vertical-offset="0" max-vertical-offset="594">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sorting.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Various/sorting.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
-              <caret line="39" column="53" selection-start-line="16" selection-start-column="0" selection-end-line="39" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="2034">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -133,6 +115,7 @@
         <option value="$PROJECT_DIR$/Various/suffle.rb" />
         <option value="$PROJECT_DIR$/Various/sorting.rb" />
         <option value="$PROJECT_DIR$/Various/dictionary_sort.rb" />
+        <option value="$PROJECT_DIR$/Various/english_number.rb" />
       </list>
     </option>
   </component>
@@ -155,7 +138,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>RubyResolve</id>
+            <id>RubyArgCount</id>
           </State>
         </selected-state>
       </profile-state>
@@ -187,7 +170,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,22 +188,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Numbers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearnRuby" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Various" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,25 +208,7 @@
       <recent name="C:\Users\raluca\RubymineProjects\Numbers\Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.dictionary_sort">
-    <configuration default="false" name="roman_numerals" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Numbers" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/methods" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/methods/roman_numerals.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.english_number">
     <configuration default="false" name="sorting" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Numbers" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -402,19 +353,18 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.roman_numerals" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.english_number" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.sorting" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.shuffle" />
       <item index="3" class="java.lang.String" itemvalue="Ruby.shuffle (1)" />
       <item index="4" class="java.lang.String" itemvalue="Ruby.dictionary_sort" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Ruby.dictionary_sort" />
         <item index="1" class="java.lang.String" itemvalue="Ruby.shuffle (1)" />
         <item index="2" class="java.lang.String" itemvalue="Ruby.shuffle" />
         <item index="3" class="java.lang.String" itemvalue="Ruby.sorting" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.roman_numerals" />
       </list>
     </recent_temporary>
   </component>
@@ -437,18 +387,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19393283" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20788912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21002132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264642" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3391116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3394794" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3394794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,27 +431,24 @@
     <MESSAGE value="Flow Control" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
+    <MESSAGE value="Various fancy methods" />
+    <MESSAGE value="Various fancy methods - Iteration 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Various fancy methods - Iteration 2" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Numbers/exercices02.rb">
+    <entry file="file://$PROJECT_DIR$/Various/english_number.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="378">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables and Assignment/variables.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="2034">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -835,18 +782,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Various/sorting.rb">
+    <entry file="file://$PROJECT_DIR$/Various/dictionary_sort.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
-          <caret line="39" column="53" selection-start-line="16" selection-start-column="0" selection-end-line="39" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.8364888" vertical-offset="0" max-vertical-offset="594">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Various/dictionary_sort.rb">
+    <entry file="file://$PROJECT_DIR$/Various/sorting.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83505154" vertical-offset="0" max-vertical-offset="594">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state vertical-scroll-proportion="1.2082616" vertical-offset="0" max-vertical-offset="864">
+          <caret line="39" column="53" selection-start-line="16" selection-start-column="0" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Various/english_number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="2034">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding />
         </state>
       </provider>

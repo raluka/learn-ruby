@@ -3,16 +3,10 @@ Write a method which take an integer and return the English version of it.
 =end
 
 def english_number number
-  # No negative numbers. Range is 0 .. 9.999.
-  if number < 0
-    return 'Please enter a number zero or greater.Range is 0 .. 9.999.'
-  end
-  if number > 9999
-    return 'Please enter a lower number. Range is 0 .. 9.999.'
-  end
-  if number == 0
-    return 'zero'
-  end
+  # No negative numbers. Range is 0 .. 9.999.999.
+  return 'Please enter a number zero or greater.' if number < 0
+  return 'Please enter a number lower than 1 billion.' if number >= 1000000000
+  return 'zero' if number == 0
 
   num_string = '' # this is the string we will return
 
@@ -24,8 +18,23 @@ def english_number number
   # "write" is the part we are writing now.
 
   left = number
+  write = left/1000000 # how many millions left?
+  left = left - write*1000000 # subtract off those millions.
+
+  if write > 0
+    millions = english_number write
+    if write == 1
+      num_string = num_string + millions + ' million'
+    else
+      num_string = num_string + millions + ' millions'
+    end
+    if left > 0
+      num_string = num_string + ' ' #if we have tens, we need a space for them
+    end
+  end
+
   write = left/1000 # how many thousands left?
-  left = left - write*1000 # subtract off those hundreds.
+  left = left - write*1000 # subtract off those thousands.
 
   if write > 0
     thousands = english_number write
@@ -35,7 +44,7 @@ def english_number number
       num_string = num_string + thousands + ' thousands'
     end
     if left > 0
-      num_string = num_string + ' ' # if we have tens, we need a space for them
+      num_string = num_string + ' ' #if we have tens, we need a space for them
     end
   end
 
@@ -79,6 +88,7 @@ def english_number number
   num_string # we return the string we created
 end
 
+
 puts english_number (0)
 puts english_number (9)
 puts english_number (10)
@@ -92,3 +102,6 @@ puts english_number (101)
 puts english_number (234)
 puts english_number (3211)
 puts english_number (123123)
+puts english_number (999999)
+puts english_number (1000000)
+puts english_number (123123123)
