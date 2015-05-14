@@ -27,3 +27,19 @@ while current_number > 0
   end
 
 end
+
+
+
+
+=begin
+def refrain(num)
+  puts "#{num} bottles of beer on the wall, #{num} bottles of beer."
+  puts "Take one down and pass it around, #{num - 1} bottles of beer on the wall."
+end
+
+number = 10
+while number > 1 do
+  refrain(number)
+  number -= 1
+end
+=end
